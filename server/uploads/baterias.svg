@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
-<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
-	 viewBox="0 0 58 58" xml:space="preserve">
-<path style="fill:#424A60;" d="M41.536,58H16.464C15.103,58,14,56.897,14,55.536V6.464C14,5.103,15.103,4,16.464,4h25.072
-	C42.897,4,44,5.103,44,6.464v49.072C44,56.897,42.897,58,41.536,58z"/>
-<rect x="24" style="fill:#D8A852;" width="10" height="4"/>
-<path style="fill:#EFCE4A;" d="M36,29h-4V16.068c0.012-0.058-0.064-0.092-0.1-0.046L22,32h5l0.002,13.929
-	c-0.016,0.059,0.06,0.097,0.098,0.05L36,29z"/>
-<path style="fill:#EA6248;" d="M41.536,4H16.464C15.103,4,14,5.103,14,6.464V13h30V6.464C44,5.103,42.897,4,41.536,4z"/>
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="12" y="9" width="40" height="54" rx="4" stroke="#322153" stroke-width="2"/>
+<path d="M22 5C22 2.23858 24.2386 0 27 0H37C39.7614 0 42 2.23858 42 5V10H22V5Z" fill="#34CB79"/>
+<path d="M23 5C23 2.79086 24.7909 1 27 1H37C39.2091 1 41 2.79086 41 5V9H23V5Z" stroke="#322153" stroke-width="2"/>
+<path d="M23 38.8261L32 22V32.1739H41L32 49V38.8261H23Z" fill="#34CB79"/>
+<path d="M23 38.8261L32 22V32.1739H41L32 49V38.8261H23Z" stroke="#322153" stroke-width="2" stroke-linejoin="round"/>
+<line x1="12" y1="14" x2="53" y2="14" stroke="#322153" stroke-width="2"/>
+<line x1="12" y1="58" x2="53" y2="58" stroke="#322153" stroke-width="2"/>
 </svg>
